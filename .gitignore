@@ -7,3 +7,4 @@ __pycache__/
 *.env
 
 genai_app.egg-info
+*.json
